@@ -14,8 +14,8 @@ This repository contains the implementation of a content recommendation system f
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone [<repository_url>](https://github.com/adityasingh31/Casestudy_softwaresoln.git)
+    
     ```
 
 2. Generate synthetic data:
